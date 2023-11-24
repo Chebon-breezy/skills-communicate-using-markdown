@@ -8,3 +8,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ![Chebon-breezy image](https://avatars.githubusercontent.com/u/60389652?v=4)
+
+$ git init
+
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
